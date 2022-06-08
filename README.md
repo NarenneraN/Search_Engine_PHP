@@ -6,8 +6,7 @@ https://search-engine-amrita.000webhostapp.com/index.php
 ## BASIC FUNCTIONALTIES :- 
 
 ## Login / Signup Screen 
-
-![image](https://user-images.githubusercontent.com/84332200/172672327-8a10ad37-2c12-40ae-99c9-de6bdf374ea1.png)
+<img src="[http://url.to/image.png](https://user-images.githubusercontent.com/84332200/172672327-8a10ad37-2c12-40ae-99c9-de6bdf374ea1.png)" align="center" height="48" width="48" >
 
 Three Types Of Account :- <br/>
            ## 1) Normal User <br/>
