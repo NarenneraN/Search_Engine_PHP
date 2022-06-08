@@ -9,7 +9,7 @@ https://search-engine-amrita.000webhostapp.com/index.php
 <img src="https://user-images.githubusercontent.com/84332200/172672327-8a10ad37-2c12-40ae-99c9-de6bdf374ea1.png" align="center"  width="400" >
 
 Three Types Of Account :- <br/>
-           ## 1) Normal User <br/>
+            <h4> 1) Normal User </h4> <br/>
                  <br/>User can only use the search engine , he can't upload any images , videos , audios to the engine . <br/>
                  ![image](https://user-images.githubusercontent.com/84332200/172672464-85a770d4-0228-47e6-8071-e380b92e9d25.png)
                  <br/>Search Page by normal user : - <br/>
