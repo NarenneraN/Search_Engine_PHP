@@ -1,0 +1,127 @@
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.holder .input{
+  margin-bottom: 50px;
+}
+.holder{
+  margin-bottom: 30px;
+}
+body {
+  font-family: Mukta, sans-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color: #4f546c;
+  font-size: 0.9rem;
+  background-color: #f9fbff;
+  overflow: scroll;
+  padding: 50px 10px;
+}
+
+table {
+  border-collapse: collapse;
+  box-shadow: 0 5px 10px #e1e5ee;
+  background-color: white;
+  text-align: left;
+  overflow: hidden;
+}
+thead {
+    box-shadow: 0 5px 10px #e1e5ee;
+  }
+
+  th {
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 0.7rem;
+    font-weight: 900;
+  }
+
+  td {
+    padding: 1rem 2rem;
+  }
+
+  a {
+    text-decoration: none;
+    color: #2962ff;
+  }
+
+  .status {
+    border-radius: 0.2rem;
+    background-color: red;
+    padding: 0.2rem 1rem;
+    text-align: center;
+
+    &-pending {
+      background-color: #fff0c2;
+      color: #a68b00;
+    }
+
+    &-paid {
+      background-color: #c8e6c9;
+      color: #388e3c;
+    }
+
+    &-unpaid {
+      background-color: #ffcdd2;
+      color: #c62828;
+    }
+  }
+
+  .amount {
+    text-align: right;
+  }
+
+  //Color alternating rows
+  tr:nth-child(even) {
+    background-color: #f4f6fb;
+  }
+}
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #00B4CC;
+  border-right: none;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
