@@ -1,6 +1,9 @@
 <h1> Search engine </h1> 
 Website Can Be Accesed At : - <br/> 
 https://search-engine-amrita.000webhostapp.com/index.php  
+<p> Admin Login Credentials :- <\p>
+<p> Email :- <b> narenpugazh@gmail.com </b><\p>
+<p> Password :- <b> 123 </b><\p>
 <h2> BASIC FUNCTIONALTIES :- </h2>  
 <h3> Login / Signup Screen </h3> 
 <img src="https://user-images.githubusercontent.com/84332200/172672327-8a10ad37-2c12-40ae-99c9-de6bdf374ea1.png" align="center"  width="400" >
